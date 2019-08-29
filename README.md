@@ -1,5 +1,5 @@
 # SML_Project1
-Statistical Machine Learning COMP90051 Project 1
+Statistical Machine Learning COMP90051 Project 1 - Semester 2
 
 Currently progressing through SML - using python jupyter notebook.
 
