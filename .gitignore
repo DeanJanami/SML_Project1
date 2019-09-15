@@ -3,3 +3,4 @@
 
 # ignore mac filesystem file
 .DS_Store
+.ipynb_checkpoints
